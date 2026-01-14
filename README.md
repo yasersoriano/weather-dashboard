@@ -1,5 +1,9 @@
 # 🌦️ Weather Dashboard (API + Streamlit)
 
+## Live Demo
+https://weather-dashboard-2nghxqxopuwkmgxr2w7bfb.streamlit.app/
+
+
 Interactive dashboard that consumes the **Open-Meteo API** and visualizes hourly weather metrics.
 
 ## What this project does
